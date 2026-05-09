@@ -1,0 +1,8 @@
+{
+  "name": "三福生活新「搭」案",
+  "description": "三福 SANFU 手机端 H5 互动广告——探索你的潮趣生活好搭子。",
+  "requestFramePermissions": [
+    "autoplay"
+  ],
+  "majorCapabilities": []
+}
