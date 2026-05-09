@@ -7,7 +7,7 @@ export default defineConfig(({mode}) => {
   const env = loadEnv(mode, '.', '');
 
   return {
-    base: '/2versionsanfu/',
+    base: '/2versionsanfuuuu/',
 
     plugins: [react(), tailwindcss()],
 
